@@ -1,1 +1,1 @@
-FROM node:16.8.0-alpine
+FROM node:18.18.2@sha256:d764525456dfe2f96a436ba00f864ee8ae3690bfb457c9f12a3a2a35b2d8be41
